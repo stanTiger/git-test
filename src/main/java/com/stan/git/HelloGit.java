@@ -10,5 +10,6 @@ public class HelloGit {
         System.out.println("main test");
         System.out.println("hot fix test");
         System.out.println("git push");
+        System.out.println("pull test");
     }
 }
